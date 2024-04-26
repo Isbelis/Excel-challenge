@@ -1,6 +1,5 @@
 # ds_apr2024_hw_1_excel
-Homework for Module 1 -Excel
-
+Homework for Module 1 - Excel
 
 The Excel homework,  I analyzed 1000 kickstarter projects to look for patterns. I could do the following:
 
@@ -12,6 +11,7 @@ The Excel homework,  I analyzed 1000 kickstarter projects to look for patterns. 
 
         d. Interacted with Unix datetimes (Converted timestamp to date)
 
-        e. Manuipulated text
+        e. Manipulated text
         
         f. Created visualization and pivot tables
+  
